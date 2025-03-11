@@ -1,3 +1,15 @@
+# how to run
+- please follow instruction bellow
+
+# Feature
+- Search Movie or Tv Series
+- Show popular Movie
+
+# Tech
+- Using react query to store and cache query results
+- Using axios to fetch data from API
+- Using https://api.themoviedb.org/3 as API for movie
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
